@@ -27,7 +27,7 @@ Users should be able to:
 ![](./images/mobile1.png)
 
 - Solution URL: [github project](3-column-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://jordanlaurent.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
