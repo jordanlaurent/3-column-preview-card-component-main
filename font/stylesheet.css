@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Lexend Deca';
+    src: url('LexendDeca-Regular.woff2') format('woff2'),
+        url('LexendDeca-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Big Shoulders Display';
+    src: url('BigShouldersDisplay-SemiBold.woff2') format('woff2'),
+        url('BigShouldersDisplay-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Big Shoulders Display';
+    src: url('BigShouldersDisplay-Thin.woff2') format('woff2'),
+        url('BigShouldersDisplay-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+body,button,p{font-family:'Lexend Deca' ; Font-size: 15px;font-weight: 400px;}
+h2{text-transform: uppercase; font-family: 'Big Shoulders Display'; font-weight: 700px; font-size: 40px;margin: 0px; }
